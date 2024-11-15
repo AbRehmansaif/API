@@ -53,6 +53,7 @@ These are the most common APIs today, allowing communication over the web using 
 - Stateless, uses standard HTTP methods (`GET`, `POST`, `PUT`, `DELETE`).
 - **Data format**: JSON or XML.
 - **Use case**: Web and mobile apps, microservices.
+- [REST API Document](https://docs.github.com/en/rest?apiVersion=2022-11-28)
 
 #### SOAP API
 - **More rigid and standardized** than REST.
@@ -62,6 +63,7 @@ These are the most common APIs today, allowing communication over the web using 
 #### GraphQL API
 - Allows clients to request exactly the data they need, reducing over-fetching.
 - **Use case**: Complex apps, content-heavy systems.
+- [GraphQL Document](https://graphql.org/)
 
 ### Internal vs. External APIs
 - **Internal APIs**: Used within an organization for internal system integration.
