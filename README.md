@@ -32,6 +32,7 @@ Whether you're a beginner or looking to deepen your knowledge, this guide will t
 7. [Different APIs for Different Projects](#Different-APIs-for-Different-Projects)
 8. [Benefits and Risks of Using APIs](#Benefits-and-Risks-of-Using-APIs)
 9. [Learning Resources](#Learning-Resources)
+10. [Contact](#Contact)
 
 ---
 
@@ -208,3 +209,8 @@ As your API evolves, version it to avoid breaking existing clients:
 
 ## Contributing
 If you have suggestions or improvements for this guide, feel free to fork the repository and submit a pull request.
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/abdul-rehman-ssuetian/)
+[Instagram](https://www.instagram.com/abdulrehman_bin_saifullah/)
+[Kaggle](https://www.kaggle.com/abrehmansaif)
