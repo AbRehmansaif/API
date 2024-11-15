@@ -30,7 +30,7 @@ Whether you're a beginner or looking to deepen your knowledge, this guide will t
    - [Deployment Steps](#Deployment-Steps)
    - [Versioning the API](#Versioning-the-API)
 7. [Different APIs for Different Projects](#Different-APIs-for-Different-Projects)
-8. [Benefits and Risks of Using APIs](Benefits-and-Risks-of-Using-APIs)
+8. [Benefits and Risks of Using APIs](#Benefits-and-Risks-of-Using-APIs)
 9. [Learning Resources](#Learning-Resources)
 
 ---
